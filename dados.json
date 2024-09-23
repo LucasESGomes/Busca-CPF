@@ -1,0 +1,86 @@
+[
+    {
+        "nome": "Ana",
+        "sobrenome": "Silva",
+        "cpf": "48698369940",
+        "telefone": "(11) 98765-4321",
+        "pais": "Brasil"
+    },
+    {
+        "nome": "Carlos",
+        "sobrenome": "Santos",
+        "cpf": "48698369941",
+        "telefone": "(21) 97654-3210",
+        "pais": "Brasil"
+    },
+    {
+        "nome": "Maria",
+        "sobrenome": "Oliveira",
+        "cpf": "48698369942",
+        "telefone": "(31) 96543-2109",
+        "pais": "Brasil"
+    },
+    {
+        "nome": "José",
+        "sobrenome": "Pereira",
+        "cpf": "48698369943",
+        "telefone": "(41) 95432-1098",
+        "pais": "Brasil"
+    },
+    {
+        "nome": "Fernanda",
+        "sobrenome": "Lima",
+        "cpf": "48698369944",
+        "telefone": "(51) 94321-0987",
+        "pais": "Brasil"
+    },
+    {
+        "nome": "Lucas",
+        "sobrenome": "Costa",
+        "cpf": "48698369945",
+        "telefone": "(61) 93210-9876",
+        "pais": "Brasil"
+    },
+    {
+        "nome": "Juliana",
+        "sobrenome": "Martins",
+        "cpf": "48698369946",
+        "telefone": "(71) 92109-8765",
+        "pais": "Brasil"
+    },
+    {
+        "nome": "Ricardo",
+        "sobrenome": "Ferreira",
+        "cpf": "48698369947",
+        "telefone": "(81) 91098-7654",
+        "pais": "Brasil"
+    },
+    {
+        "nome": "Patrícia",
+        "sobrenome": "Rocha",
+        "cpf": "48698369948",
+        "telefone": "(91) 89987-6543",
+        "pais": "Brasil"
+    },
+    {
+        "nome": "André",
+        "sobrenome": "Souza",
+        "cpf": "48698369949",
+        "telefone": "(31) 88876-5432",
+        "pais": "Brasil"
+    },
+    {
+        "nome": "Mariana",
+        "sobrenome": "Nogueira",
+        "cpf": "48698370040",
+        "telefone": "(41) 87765-4321",
+        "pais": "Brasil"
+    },
+    {
+        "nome": "Eduardo",
+        "sobrenome": "Teixeira",
+        "cpf": "48698370140",
+        "telefone": "(51) 86654-3210",
+        "pais": "Brasil"
+    }
+]
